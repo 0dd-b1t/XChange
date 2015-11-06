@@ -1,7 +1,7 @@
 ## [![XChange](http://xeiam.com/images/XChange_64_64.png)](http://xeiam.com/xchange) XChange
 A Financial Exchange Library for Java
 
-## Important!
+## Important!!!!
 The world of Bitcoin changes quickly and XChange is no exception. The best way to stay updated on important announcements is to follow tweets on [Xeiam's Twitter page](https://twitter.com/Xeiam). For the latest bugfixes and features you should use the [snapshot jars] (https://oss.sonatype.org/content/groups/public/com/xeiam/xchange/) or build yourself from the DEVELOP branch. See below for more details about building with Maven. To report bugs and see what issues people are currently working on see the [issues page](https://github.com/timmolter/XChange/issues).
 
 ## Description
